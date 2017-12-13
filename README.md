@@ -1,0 +1,2 @@
+# serisu
+serisu.ga
